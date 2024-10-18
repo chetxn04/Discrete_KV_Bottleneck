@@ -6,7 +6,7 @@ This is my attempt at recreating one of the models described in the paper titled
 
 Two files are present in this repository:
 - **NUS_Final.ipynb**: This notebook implements a Key-Value Bottleneck model designed for classifying the MNIST dataset in a non-stationary learning environment. It compares the performance of the Key-Value Bottleneck model against a traditional Multi-Layer Perceptron (MLP) model. The non-stationary dataset is generated such that the model must adapt to pairs of classes sequentially, simulating a continual learning scenario.
-- 
+- **NUS_Bigger_Experiment_2**: This notebooks houses partial code for training a DKVB (Discrete Key Value Bottleneck) type model for classification on the CIFAR10 dataset. 
 
 ## Key Features
 
